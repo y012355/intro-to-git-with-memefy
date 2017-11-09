@@ -16,3 +16,6 @@ t h i s   i s   s o m e   t e x t
 
 ## Purpose
 To introduce branching and the concept of remotes in Git.
+
+## Participants
+* Ravern Koh
