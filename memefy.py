@@ -17,6 +17,7 @@ def main():
         return
 
     while True:
+        print()
         text = input()
         print(meme_function(text))
 
